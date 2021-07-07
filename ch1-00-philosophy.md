@@ -1,44 +1,44 @@
 ---
 layout: lesson
-title: Chapter I
-subtitle: Philosophy
-quote: "The mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing."
+title: Kapitola I
+subtitle: Filozofia
+quote: "Myš sa na ňu zvedavo pozrela a zdalo sa, že jedným okom mrkla, čo však nič neprezrádzalo."
 audio: /assets/audio/21lessons/1-00.m4a
 permalink: philosophy
 order: ch1-00
 toc: true
 ---
 
-Looking at Bitcoin superficially, one might conclude that it is slow, wasteful,
-unnecessarily redundant, and overly paranoid. Looking at Bitcoin inquisitively,
-one might find out that things are not as they seem at first glance.
+Ak sa pozrieme na Bitcoin povrchne, mohli by sme prísť k záveru, že je to pomalá, zbytočná, 
+neužitočná a príliš paranoidná vec. Ak sa pozrieme na Bitcoin zvedavo, mohli by sme zistiť, 
+že veci nie sú také ako sa na prvý pohľad zdá.
 
-Bitcoin has a way of taking your assumptions and turning them on their heads.
-After a while, just when you were about to get comfortable again, Bitcoin will
-smash through the wall like a bull in a china shop and shatter your assumptions
-once more.
+Bitcoin dokáže zobrať Vaše predpoklady a postaviť ich dolu hlavou. Po chvíli, 
+keď si myslíte, že ste sa už zorientovali, Bitcoin prerazí stenu ako býk v obchode 
+so suvenírmi a opäť prehádže Vaše predpoklady.
 
-{% include image.html path="./assets/images/blind-monks.jpg" caption="Blind monks examining the Bitcoin bull" %}
+{% include image.html path="./assets/images/blind-monks.jpg" caption="Slepí mníchovia skúmajú Bitcoinového býka" %}
 
-Bitcoin is a child of many disciplines. Like blind monks examining an elephant,
-everyone who approaches this novel technology does so from a different angle.
-And everyone will come to different conclusions about the nature of the beast.
+Bitcoin je výsledkom mnohých disciplín. Tak ako slepí mníchovia skúmajú slona, 
+každý, kto sa dostane k tejto novej technológii, tak robí z iného uhla. 
+A každý príde k odlišnému záveru o podstate tejto šelmy.
 
-The following lessons are about some of my assumptions which Bitcoin shattered,
-and the conclusions I arrived at. Philosophical questions of immutability,
-scarcity, locality, and identity are explored in the first four lessons.
+Nasledujúce lekcie zahŕňajú niektoré moje predpoklady, ktorými Bitcoin otriasol a závery, 
+ku ktorým som dospel. Filozofické otázky nemennosti, zriedkavosti, lokality 
+a identity sú uvedené v prvých štyroch lekciách.
+
 
 {% include lesson-list.html chapter="1"%}
 
-Lesson 5 explores how Bitcoin's origin story is not only fascinating but
-absolutely essential for a leaderless system. The last two lessons of this
-chapter explore the power of free speech and the limits of our individual
-knowledge, reflected by the surprising depth of the Bitcoin rabbit hole.
+Lekcia 5 objavuje, že príbeh pôvodu Bitcoinu nie je len fascinujúci, ale absolútne nevyhnutný 
+pre systém bez lídra. Posledné dve lekcie tejto kapitoly popisujú silu voľného prejavu 
+a limity našich individuálnych znalostí, ktoré sa odrážajú v prekvapivej hĺbke zajačej nory Bitcoinu.
 
-I hope that you will find the world of Bitcoin as educational, fascinating and
-entertaining as I did and still do. I invite you to follow the white rabbit and
-explore the depths of this rabbit hole. Now hold on to your pocket watch, pop
-down, and enjoy the fall.
+Dúfam, že svet Bitcoiunu bude pre Vás vzdelávací, fascinujúci a zábavný tak 
+ako to bolo a je aj pre mňa. Vyzývam Vás, aby ste sledovali bieleho zajačika 
+a objavili hĺbku tejto zajačej nory. Teraz si zoberte do ruky svoje vreckové 
+hodinky, ponorte sa a vychutnaj si si pád.
+
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
