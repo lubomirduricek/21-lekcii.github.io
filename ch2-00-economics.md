@@ -1,53 +1,53 @@
 ---
 layout: lesson
-title: Chapter II
-subtitle: Economics
-quote: "A large rose tree stood near the entrance of the garden: the roses on it were white, but there were three gardeners at it, busily painting them red. This Alice thought a very curious thing..."
+title: Kapitola II
+subtitle: Ekonomika
+quote: "Pri vstupe do záhrady stál veľký ker ruží: ruže na ňom boli biele, boli pri ňom však traja záhradníci, ktorí sa ich úporne snažili natrieť na červeno. To sa zdalo Alici veľmi zvláštne..."
 audio: /assets/audio/21lessons/2-00.m4a
 permalink: economics
 order: ch2-00
 toc: true
 ---
 
-Money doesn’t grow on trees. To believe that it does is foolish, and our
-parents make sure that we know about that by repeating this saying like a
-mantra. We are encouraged to use money wisely, to not spend it frivolously,
-and to save it in good times to help us through the bad. Money, after all,
-does not grow on trees.
+Peniaze nerastú na stromoch. Ak si niekto myslí, že áno, je blázon a 
+naši rodičia sa uisťujú, že sme sa veci naučili tým, že nám to opakujú 
+ako mantru. Radia nám, aby sme peniaze používali s rozumom, neutrácali 
+ich svojvoľne a aby sme si ich v dobrých časoch ušetrili na pomoc v 
+zlých časoch. Peniaze napokon nerastú na stromoch.
 
-Bitcoin taught me more about money than I ever thought I would need to know.
-Through it, I was forced to explore the history of money, banking, various
-schools of economic thought, and many other things. The quest to understand
-Bitcoin lead me down a plethora of paths, some of which I try to explore in
-this series.
+Bitcoin ma o peniazoch naučil viac ako som si vôbec kedy predstavoval, 
+že budem potrebovať vedieť. Prostredníctvom neho som bol prinútený 
+objaviť históriu peňazí, bankovníctva, rôznych škôl ekonomického myslenia 
+a mnohé iné. Snaha pochopiť Bitcoin ma priviedla k mnohým cestám, 
+pričom niektoré v nich sa snažím odhaliť v týchto lekciách.
 
-In the first seven lessons some of the philosophical questions Bitcoin touches
-on were discussed. The next seven lessons will take a closer look at money and
-economics.
+V prvých siedmych lekciách som pojednával o niektorých filozofických otázkach, 
+ktorých sa Bitcoin dotýka. V ďalších siedmych lekciách sa bližšie 
+pozrieme na peniaze a ekonomiku.
 
 {% include lesson-list.html chapter="2"%}
 
-Again, I will only be able to scratch the surface. Bitcoin is not only
-ambitious, but also broad and deep in scope, making it impossible to cover all
-relevant topics in a single lesson, essay, article, or book. I  doubt if it is
-even possible at all.
+Opäť budem schopný dostať sa len na povrch. Bitcoin je nielen ambiciózny, 
+ale má aj široký a hlboký rozsah, pričom nie je možné pokryť všetky relevantné 
+témy v jednej lekcii, eseji, článku alebo knihe. 
+Mám pochybnosti o tom, či je to vôbec možné.
 
-Bitcoin is a new form of money, which makes learning about economics paramount
-to understanding it. Dealing with the nature of human action and the
-interactions of economic agents, economics is probably one of the largest and
-fuzziest pieces of the Bitcoin puzzle.
+Bitcoin je nová forma peňazí a preto je na jeho pochopenie nevyhnutné
+nadobúdanie ekonomických znalostí. Ekonomika, ktorá pojednáva o podstate ľudskej 
+činnosti a o interakciách medzi ekonomickými činiteľmi, je pravdepodobne 
+jedným z najväčších a najkomplikovanejších dielov Bitcoinovej skladačky.
 
-Again, these lessons are an exploration of the various things I have learned
-from Bitcoin. They are a personal reflection of my journey down the rabbit hole.
-Having no background in economics, I am definitely out of my comfort zone and
-especially aware that any understanding I might have is incomplete. I will do my
-best to outline what I have learned, even at the risk of making a fool out of
-myself. After all, I am still trying to answer the question: [*“What have you
-learned from Bitcoin?”*][the question]
+Tieto lekcie sú opäť preskúmavaním rôznych vecí, ktoré ma Bitcoin naučil. 
+Sú osobným odrazom mojej cesty dolu do zajačej nory. Keďže nemám 
+žiadny ekonomický základ, som celkom mimo svojej komfortnej zóny 
+a najmä som si vedomý toho, že ak aj niečo pochopím, bude to nekompletné. 
+Budem sa maximálne snažiť načrtnúť to, čo som sa naučil, a to dokonca 
+aj s tým rizikom, že zo seba urobím blázna. Napokon sa stale snažím 
+odpovedať na otázku: [*"Čo Vás naučil Bitcoin?"*][the question]
 
-After seven lessons examined through the lens of philosophy, let’s use the lens
-of economics to look at seven more. Economy class is all I can offer this time.
-Final destination: **sound money**.
+Po siedmych lekciách skúmania optikou filozofie poďme použiť optiku 
+ekonomiky a pozrime sa na sedem ďalších lekcií. Lekcia ekonomiky je všetko, 
+čo Vám tentokrát môžem ponúknuť. Koncová destinácia: **skutočné peniaze**.
 
 [the question]: https://twitter.com/arjunblj/status/1050073234719293440
 
