@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 21 Lessons
-subtitle: What I've Learned from Falling Down the Bitcoin Rabbit Hole
+title: 21 Lekcií
+subtitle: Čo som sa naučil pri páde do Bitcoinovej zajačej nory.
 subtitle_link: http://21lessons.com
 category: bitcoin
-description: An exploration of questions and lessons learned from falling down the Bitcoin rabbit hole.
-quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
+description: Prieskym otázok a lekcií naučených pri páde do Bitcoinovej zajačej nory.
+quote: "\"Ach, ty pochabá Alica!\" povedala znovu, \"ako by si sa tu mohla niečo naučiť? Však tu nie je ani dosť miesta pre teba
+a už vôbec nie pre žiadne knihy!\""
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
@@ -16,8 +17,8 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 ---
 
->  "I highly recommend this book. If you're new to bitcoin, buy it on Amazon. If you're a
->  Hodler, read the book online and send bitcoin directly to Gigi."
+>  "Vrelo môžem túto knihu odporúčať. Ak ste v Bitcoine nový kúpte si ju na Amazone.
+>  Ak ste Hodlerom tak si knihu prečítaje online a pošlite bitcoin priamo Gigimu."
 >  <cite>[Minimal Structure][reviews]</cite>
 
 ---
@@ -51,15 +52,15 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 </div>
 
 
-Thanks to the awesome members of the Bitcoin community, 21 Lessons is available
-in [several languages][translations], as an [audio version][audio], and as
-a [virtual reality world][vr].
+Vďaka úžasným členom Bitcoinovej komunity je 21 Lekcií k dispozícii
+v [niekoľkých jazykoch][translations], aj v [audio verzii][audio], a
+vo [virtuálnej realite][vr].
 
 ---
 
-> The White Rabbit put on his spectacles. 'Where shall I begin, please your
-> Majesty?' he asked. '[Begin at the beginning][preface],' the King said
-> gravely, 'and go on till you come to the end: then stop.'
+> Biely Zajac si nasadil okuliare. 'Kde mám prosím začať, Vaše Veličenstvo?',
+> spýtal sa. '[Začni na začiatku][preface],' odpovedal Kráľ vážnym hlasom, 'a pokračuj 
+> až do konca: potom prestaň.'
 
 <center>
   <p>Ready to enter Wonderland?<br/>
