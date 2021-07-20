@@ -1,52 +1,53 @@
 ---
 layout: lesson
-title: Chapter III
+title: Kapitola III
 subtitle: Technology
-quote: "\"Now, I'll manage better this time\" she said to herself, and began by taking the little golden key, and unlocking the door that led into the garden"
+quote: "\"Teraz to urobím lepšie\" povedala si pre seba a začala tým, že vybrala malý zlatý kľúčik a odomykla dvere, ktoré viedli do záhrady"
 audio: /assets/audio/21lessons/3-00.m4a
 permalink: technology
 order: ch3-00
 toc: true
 ---
 
-Golden keys, clocks which only work by chance, races to solve strange riddles,
-and builders that don't have faces or names. What sounds like fairy tales from
-Wonderland is daily business in the world of Bitcoin.
+Zlaté kľúče, hodiny, ktoré fungujú len náhodou, preteky v riešení zvláštnych 
+hádaniek a stavitelia bez tváre a mena. To, čo znie ako rozprávka z Krajiny 
+zázrakov, je každodenná praktika vo svete Bitcoinu.
 
-As we explored in [Chapter 2][chapter2], large parts of the current financial
-system are systematically broken. Like Alice, we can only hope to manage better
-this time. But, thanks to a pseudonymous inventor, we have incredibly
-sophisticated technology to support us this time around: Bitcoin.
+Ako sme uviedli v [Kapitole 2][kapitola2], veľké časti súčasného finančného 
+systému sú systematicky pokazené. Tak ako Alice, môžeme len dúfať, že to 
+tentokrát urobíme lepšie. Avšak vďaka pseudonymnému vynálezcovi máme neuveriteľne
+sofistikovanú technológiu, ktorá nám v tom tentokrát pomôže: Bitcoin.
 
-Solving problems in a radically decentralized and adversarial environment
-requires unique solutions. What would otherwise be trivial problems to solve
-are everything but in this strange world of nodes. Bitcoin relies on strong
-cryptography for most solutions, at least if looked at through the lens of
-technology. Just how strong this cryptography is will be explored in one of the
-following lessons.
+Riešenie problémov v radikálne decentralizovanom a nepriateľskom prostredí si 
+vyžaduje jedinečné riešenia. To, čo by inak boli triviálne problémy, 
+sú v tomto zvláštnom svete uzlov presným opakom. Bitcoin sa pri väčšine riešení 
+spolieha na silnú kryptografiu, minimálne ak sa naň pozeráme cez technológiu. 
+To ako silná je kryptografia, si popíšeme v jednej z nasledujúcich lekcií.
 
-Cryptography is what Bitcoin uses to remove trust in authorities. Instead of
-relying on centralized institutions, the system relies on the final authority of
-our universe: physics. Some grains of trust still remain, however. We will
-examine these grains in the second lesson of this chapter.
+Kryptografia je to, čo Bitcoin používa na odstránenie dôvery v autority. Namiesto 
+spoliehania sa na centralizované inštitúcie sa tento systém spolieha na finančnú 
+autoritu nášho vesmíru: fyziku. Isté zrnká dôvery tu však ešte zostávajú. 
+Tieto zrnká preskúmame v druhej lekcii tejto kapitoly.
 
 {% include lesson-list.html chapter="3"%}
 
-The last couple of lessons explore the ethos of technological development in
-Bitcoin, which is arguably as important as the technology itself. Bitcoin is not
-the next shiny app on your phone. It is the foundation of a new economic
-reality, which is why Bitcoin should be treated as nuclear-grade financial
-software.
+Posledných pár lekcií odhaľuje étos technologického rozvoja Bitcoinu, ktorý je 
+zjavne rovnako dôležitý ako samotná technológia. Bitcoin nie je len ďalšia lesklá 
+aplikácia vo vašom mobile. Ide o základ novej ekonomickej reality, a preto by sa 
+mal Bitcoin považovať za finančný softvér jadrového charakteru.
 
-Where are we in this financial, societal, and technological revolution? Networks
-and technologies of the past may serve as metaphors for Bitcoins future, which
-are explored in the last lesson of this chapter.
+Kde sa nachádzame v tejto finančnej, spoločenskej a technologickej revolúcii? 
+Siete a technológie z minulosti môžu slúžiť ako metafory budúcnosti Bitcoinu, 
+ktorá je opísaná v poslednej lekcii tejto kapitoly.
+
+Ešte raz, nasadnite a užite si jazdu. Tak ako všetky exponenciálne 
+technológie pôjdeme parabolicky.
 
 Once more, strap in and enjoy the ride. Like all exponential technologies, we
 are about to go parabolic.
 
 <!-- Internal -->
-[chapter2]: {{ 'economics' | absolute_url }}
+[kapitola2]: {{ 'ekonomika' | absolute_url }}
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
