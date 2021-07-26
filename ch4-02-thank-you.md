@@ -1,24 +1,25 @@
 ---
 layout: lesson
-title: Thank You
-subtitle: ...for reading, for being here, for trying to understand.
-quote: "\"It seems very pretty,\" she said when she had finished it, \"but it’s rather hard to understand!\""
+title: Ďakujem
+subtitle: ...za to, že ste čítali, že ste tu boli, že ste sa pokúsili pochopiť.
+quote: "\"Vyzerá to nádherne,\" povedala, keď to dokončila, \"ale ťažko sa to chápe!\""
 permalink: thank-you
 order: ch4-02
 toc: true
 ---
 
-Thank you for reading 21 Lessons. I hope you enjoyed it. If you did,
-[please leave a review on Amazon][amazon] (or on [Goodreads][goodreads]) and share it with
-your friends. If you didn't, or have any suggestions for improvements, please reach out to
-me directly.
+Ďakujem, že ste si prečítali týchto 21 lekcií. Dúfam, že sa Vám páčili. Ak áno, 
+[zanechajte recenziu na Amazone][amazon] (alebo na [Goodreads][goodreads]) a 
+zdieľajte ich so svojimi priateľmi. Ak nie alebo máte nejaké návrhy na vylepšenia, 
+kontaktujte priamo mňa.
 
-I am currently working on a second, more ambitious project: *21 Ways*. You can
-[support me on Patreon][patreon] to get an exclusive glimpse and early access to current
-drafts, artwork, and other things. Your support allows me to allocate more time to writing
-and creating free, open-source education. It's what I love to do. I hope that I will be able
-to dedicate all my time to it one day. To all of you who support me already: thank you. From
-the bottom of my heart. Thank you.
+Momentálne pracujem na druhom, ešte ambicióznejšom projekte: *21 spôsobov*. Môžete ma 
+[podporiť na Patreon][patreon], aby sme získali exkluzívny pohľad a včasný prístup k 
+aktuálnym návrhom, umeleckým dielam a iným veciam. Vaša podpora mi umožní venovať viac 
+času  písaniu a tvorbe bezplatného, open-source vzdelávania. Milujem to. Dúfam, že sa 
+tomu budem môcť jedného dňa venovať naplno. Všetkým z Vás, ktorí ma už podporujú: 
+Ďakujem Vám. Z hĺbky svojho srdca. Ďakujem.
+
 
 [amazon]: https://amzn.to/2VXmQgp
 [goodreads]: https://www.goodreads.com/book/show/50376693-21-lessons
