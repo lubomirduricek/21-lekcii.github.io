@@ -1,103 +1,100 @@
 ---
 layout: lesson
-title: Acknowledgments
-quote: "\"Thank you,\" said Alice"
+title: Poďakovanie
+quote: "\"Ďakujem,\" povedala Alice"
 permalink: acknowledgments
 order: ch4-01
 toc: true
 ---
 
-Thanks to the countless authors and content producers who
-influenced my thinking on Bitcoin and the topics it touches. There
-are too many to list them all, but I'll do my best to name a few.
+Ďakujem nekonečnému počtu autorov a tvorcov obsahu, ktorí ovplyvnili 
+moje myslenie ohľadom Bitcoinu a tém, ktorých sa dotýka. Je ich príliš 
+veľa na to, aby som ich tu všetkých uvádzal, ale pokúsim sa vymenovať 
+aspoň niektorých.
 
 <!-- Part I -->
--   Thanks to [Arjun Balaji] for [the tweet] which motivated me to
-    write this.
--   Thanks to [Marty Bent] for providing endless food for thought
-    and entertainment. If you are not subscribed to [Marty's Ƀent] and
-    [Tales From The Crypt], you are missing out. Cheers [Matt] and Marty
-    for guiding us through the rabbit hole.
--   Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and
-    providing the greatest Bitcoin literature via the [Nakamoto
-    Institute]. And thank you for creating the [Noded Podcast]
-    which influenced my philosophical views on Bitcoin substantially.
--   Thanks to [Peter McCormack] for his [honest tweets] and the [What
-    Bitcoin Did] podcast, which keeps providing great insights from many
-    areas of the space.
+-   Ďakujem [Arjunovi Balajiovi] za tweet, ktorý ma motivoval k napísaniu tohto článku.
+-   Ďakujem [Marty Bentovi] za to, že mi poskytol nekonečné zdroje myšlienok a zábavy. 
+    Robíte chybu, ak neodoberáte [Marty’s Ƀent] a [Tales From The Crypt]. Pozdravujem 
+    [Matta] a Martyho za to, že ma sprevádzali zajačou norou.
+-   Ďakujem [Michaelovi Goldsteinovi] a [Pierrovi Rochardovi] za kurátorstvo poskytnutie
+    tej najlepšej literatúry o Bitcoine cez [Nakamotov inštitút]. 
+    A ďakujem za to, že vytvorili [Noded Podcast], ktorý výrazne ovplyvnil moje 
+    filozofické pohľady na Bitcoin.
+-   Ďakujem [Petrovi McCormackovi] za jeho [čestné tweety] a za podcast [What Bitcoin Did],
+    ktorý neustále poskytuje vynikajúce pohľady z mnohých oblastí.
 <!-- Part II -->
--   Thanks to [Andreas M. Antonopoulos] for all the [educational
-    material] he has put out over the years.
--   Thanks to [Saifedean Ammous] for his convictions, savage tweets, and
-    writing The Bitcoin Standard
--   Thanks to [Francis Pouliot] for sharing his excitement about
-    finding out about the [timechain].
--   Thanks to [Jannik], [Brandon], [Matt], [Camilo], [Daniel], [Michael], and
-    [Raphael] for providing feedback to early drafts of some lessons.
-    Special thanks to [Jannik] who proofread multiple drafts multiple times.
+-   Ďakujem [Andreasovi M. Antonopoulosovi] za všetok [vzdelávací materiál], ktorý za
+    všetky tie roky zverejnil.
+-   Ďakujem [Saifedeanovi Ammousovi] za jeho presvedčenia, divoké tweety a za to napísal 
+    The Bitcoin Standard
+-   Ďakujem [Francisovi Pouliotovi] za to, že sa podelil o svoje vzrušenie pri hľadaní 
+    informácií o [časovom reťazci].
+-   Ďakujem [Jannikovi], [Brandonovi], [Mattovi], [Camilovi], [Danielovi], [Michaelovi] 
+    a [Rafaelovi] za to, že mi poskytli spätnú väzbu k prvým návrhom niektorých mojich lekcií. 
+    Obzvlášť ďakujem [Jannikovi], ktorý mi niekoľko krát korigoval viaceré návrhy.
 <!-- Part III -->
--   Thanks to [Dhruv Bansal] and [Matt Odell] for taking the time to
-    discuss some of these ideas with me.
--   Thanks to [Guy Swann] for producing an audio version
-    of 21lessons.com.
+-   Ďakujem [Dhruvovi Bansalovi] a [Mattovi Odellovi] za to, že si dali tú námahu a niektoré
+    z týchto myšlienok so mnou prejednali.
+-   Ďakujem [Guyovi Swannovi] za to, že vyrobil audio verziu webovej stránky 21lessons.com.
+-   V neposlednom rade ďakujem všetkým bitcoinovým maximalistom, shitcoinovým minimalistom, 
+    shillom, botom, shitposterom, ktorí pobývajú v prekrásnej záhrade, ktorou je Bitcoin twitter. 
+    A napokon ďakujem *Vám*, že ste si tento článok prečítali. Dúfam, že ste si to užili rovnako 
+    ako ja, keď tento článok písal. Neváhajte [ma kontaktovať] cez twitter. Moje DM sú otvorené.
 -   Last but not least, thanks to all the bitcoin maximalists, shitcoin
-    minimalists, shills, bots, and shitposters which reside in the
-    beautiful garden that is Bitcoin twitter. And finally, thank *you* for
-    reading this. I hope you enjoyed it as much as I did enjoy writing it.
-    Feel free to [reach out to me] on twitter. My DMs are open.
-
+   
 <!-- Twitter -->
-[Guy Swann]: https://twitter.com/TheCryptoconomy
-[Arjun Balaji]: https://twitter.com/arjunblj
-[Saifedean Ammous]: https://twitter.com/saifedean
+[Guyovi Swannovi]: https://twitter.com/TheCryptoconomy
+[Arjunovi Balajiovi]: https://twitter.com/arjunblj
+[Saifedeanovi Ammousovi]: https://twitter.com/saifedean
 [Dhruv Bansal]: https://twitter.com/dhruvbansal
-[Marty Bent]: https://twitter.com/martybent
+[Marty Bentovi]: https://twitter.com/martybent
 [Matt Odell]: https://twitter.com/matt_odell
-[Matt]: https://twitter.com/matt_odell
-[Michael Goldstein]: https://twitter.com/bitstein
-[Pierre Rochard]: https://twitter.com/pierre_rochard
+[Matta]: https://twitter.com/matt_odell
+[Michaelovi Goldsteinovin]: https://twitter.com/bitstein
+[Pierrovi Rochardovi]: https://twitter.com/pierre_rochard
 [Hugo Nguyen]: hhttps://twitter.com/hugohano
-[Jannik]: https://twitter.com/jnnksbrt
-[Camilo]: https://twitter.com/CamiloJdL
+[Jannikovi]: https://twitter.com/jnnksbrt
+[Camilovi]: https://twitter.com/CamiloJdL
 [deniz]: https://twitter.com/deniz_zgur
-[Michael]: https://twitter.com/michael_rogger
-[Daniel]: https://twitter.com/dnlggr
-[Raphael]: https://twitter.com/dinemuatta
+[Michaelovi]: https://twitter.com/michael_rogger
+[Danielovi]: https://twitter.com/dnlggr
+[Rafaelovi]: https://twitter.com/dinemuatta
 [Dan Held]: https://twitter.com/danheld
 [Vijay Boyapati]: https://twitter.com/real_vijay
 [Hasu]: https://twitter.com/hasufl
-[Brandon]: https://twitter.com/bquittem
-[Andreas M. Antonopoulos]: https://twitter.com/aantonop
-[Francis Pouliot]: https://twitter.com/francispouliot_
-[timechain]: https://twitter.com/francispouliot_/status/1106028072799744002
+[Brandonovi]: https://twitter.com/bquittem
+[Andreasovi M. Antonopoulosovi]: https://twitter.com/aantonop
+[Francisovi Pouliotovi]: https://twitter.com/francispouliot_
+[časovom reťazci]: https://twitter.com/francispouliot_/status/1106028072799744002
 [Aleksandar Svetski]:https://twitter.com/AleksSvetski
 [Michael Kerbleski]: https://twitter.com/kerbleski
 [3Blue1Brown]: https://twitter.com/3blue1brown
 [Arjun Balaji]: https://twitter.com/arjunblj
 [the tweet]: https://twitter.com/arjunblj/status/1050073234719293440
 [Saifedean Ammous]: https://twitter.com/saifedean
-[Dhruv Bansal]: https://twitter.com/dhruvbansal
-[Matt Odell]: https://twitter.com/matt_odell
-[Matt]: https://twitter.com/matt_odell
+[Dhruvovi Bansalovi]: https://twitter.com/dhruvbansal
+[Mattovi Odellovi]: https://twitter.com/matt_odell
+[Mattovi]: https://twitter.com/matt_odell
 [Michael Goldstein]: https://twitter.com/bitstein
 [Pierre Rochard]: https://twitter.com/pierre_rochard
-[Nakamoto Institute]: http://nakamotoinstitute.org
-[Jannik]: https://twitter.com/jnnksbrt
+[Nakamotov inštitút]: http://nakamotoinstitute.org
+[Jannikovi]: https://twitter.com/jnnksbrt
 [Dan Held]: https://twitter.com/danheld
 [Vijay Boyapati]: https://twitter.com/real_vijay
-[Peter McCormack]: https://twitter.com/whatbitcoindid
-[honest tweets]: https://twitter.com/PeterMcCormack/status/1073196778705559553
+[Petrovi McCormackovi]: https://twitter.com/whatbitcoindid
+[čestné tweety]: https://twitter.com/PeterMcCormack/status/1073196778705559553
 [stacking]: https://twitter.com/hashtag/stackingsats
-[reach out to me]: https://twitter.com/dergigi
+[ma kontaktovať]: https://twitter.com/dergigi
 
 <!-- Pods -->
 [Tales From The Crypt]: https://talesfromthecrypt.libsyn.com/
 [Noded Podcast]: https://noded.org/
-[Marty's Ƀent]: http://eepurl.com/cROArD
+[Marty’s Ƀent]: http://eepurl.com/cROArD
 [What Bitcoin Did]: https://www.whatbitcoindid.com/podcast
 
 <!-- Other -->
-[educational material]: https://antonopoulos.com/
+[vzdelávací materiál]: https://antonopoulos.com/
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
