@@ -2,7 +2,7 @@
 layout: page
 title: 21 Lekcií
 subtitle: Čo som sa naučil pri páde do Bitcoinovej zajačej nory.
-subtitle_link: http://21lessons.com
+subtitle_link: https://lubomirduricek.github.io/21-lekcii.github.io/
 category: bitcoin
 description: Prieskym otázok a lekcií naučených pri páde do Bitcoinovej zajačej nory.
 quote: "\"Ach, ty pochabá Alica!\" povedala znovu, \"ako by si sa tu mohla niečo naučiť? Však tu nie je ani dosť miesta pre teba
