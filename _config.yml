@@ -5,10 +5,10 @@ permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name: Gigi
-title: 21Lessons.com
+title: 21 Lekcií
 description: >
-  21 Lessons Learned from Falling Down the Bitcoin Rabbit Hole.
-url: https://21lessons.com
+  Čo som sa naučil pri páde do Bitcoinovej zajačej nory.
+url: https://lubomirduricek.github.io/21-lekcii.github.io/
 twitter_username: dergigi
 default_img: /assets/images/avatar.jpg
 social:
