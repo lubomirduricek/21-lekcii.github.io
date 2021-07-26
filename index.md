@@ -63,8 +63,8 @@ vo [virtuálnej realite][vr].
 > až do konca: potom prestaň.'
 
 <center>
-  <p>Ready to enter Wonderland?<br/>
-  <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
+  <p>Ste pripravený vstúpiť do Krajiny Zázrakov??<br/>
+  <a href="{{ 'preface' | absolute_url }}">Nasledujte bieleho zajace →</a></p>
   <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
 </center>
 
